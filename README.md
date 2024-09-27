@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a youtuber!<br>Currently pursuing BE Degree and B Sc (Honours) in Data Science and Artificial Intelligence.
+I am Data Science & AI Enthusiast<br>Currently pursuing BE in Computer Science and B Sc (Honours) in Data Science and Artificial Intelligence.
 
 
 ## 🌐 Socials:
